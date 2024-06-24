@@ -15,7 +15,7 @@ This command will install all required packages specified in `package.json`.
 
 Once the dependencies are installed, start the Node.js server. Run the following command:
 ```bash
-   node localhost:3000
+   node main.js
 ```
 This command will start the server locally on port `3000`.
 
