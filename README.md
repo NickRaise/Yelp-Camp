@@ -7,7 +7,7 @@ To run this project locally, follow these steps:
    Open your terminal and navigate to the project directory. Run the following command to install the necessary dependencies:
    ```bash
    npm install
-```
+   ```
    
 This command will install all required packages specified in `package.json`.
 
