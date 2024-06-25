@@ -2,7 +2,14 @@
 
 To run this project locally, follow these steps:
 
-1. **Install Dependencies:**
+1. **MongoDB:**
+   
+   If MongoDB is not already installed on your machine, follow the official MongoDB installation guide for your operating system:
+   - [MongoDB Installation Guide](https://docs.mongodb.com/manual/installation/)
+
+   Ensure MongoDB is running before proceeding to start the Node.js server.
+
+2. **Install Dependencies:**
 
    Open your terminal and navigate to the project directory. Run the following command to install the necessary dependencies:
    ```bash
@@ -19,7 +26,7 @@ Once the dependencies are installed, start the Node.js server. Run the following
 ```
 This command will start the server locally on port `3000`.
 
-3. **Access the Application:**
+4. **Access the Application:**
 
 Open your web browser and navigate to http://localhost:3000 to access the application.
 
